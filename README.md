@@ -6,6 +6,8 @@
 
 3. (If step 2. doesnt work, try opening the project in Visual Studio. This might fix issues)
 
+4. also, you might have to install pygame idk.
+
 
 
 # About the project
