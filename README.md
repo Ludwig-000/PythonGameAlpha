@@ -8,6 +8,7 @@
 
 4. also, you might have to install pygame idk.
 
+( it runs on my PC, but probably not on your's. Because. )
 
 
 # About the project
