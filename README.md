@@ -1,5 +1,11 @@
 # How to run
 
+download the .exe here:
+https://drive.google.com/file/d/1IjHVBzuFx4bfuoM0pAZZ6sDFuVi7FZRY/view?usp=sharing
+
+
+alternatively:
+
 1. Install Python 3.10.6 or newer. (Older versions probably also work)
 
 2. Run PyGAME1.py
