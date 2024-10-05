@@ -2,6 +2,7 @@
 
 download the .exe here:
 https://drive.google.com/file/d/1IjHVBzuFx4bfuoM0pAZZ6sDFuVi7FZRY/view?usp=sharing
+or click on the "Releases" button in the GitHub repo.
 
 
 alternatively:
